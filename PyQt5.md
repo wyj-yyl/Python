@@ -64,7 +64,7 @@ if (__name__=='__main__'):
 
 ```
 
-![image-20210921203726511](C:\Users\24116\AppData\Roaming\Typora\typora-user-images\image-20210921203726511.png)
+![image-20210921203726511](https://i.loli.net/2021/09/22/wm7o2uPCpTqXM4Q.png)
 
-![image-20210921203823339](C:\Users\24116\AppData\Roaming\Typora\typora-user-images\image-20210921203823339.png)
+![image-20210921203823339](https://i.loli.net/2021/09/22/KWfpduAHBNqLU2n.png)
 
