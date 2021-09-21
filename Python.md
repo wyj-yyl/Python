@@ -105,16 +105,17 @@ info='''薛蟠     4560 25
 info.splitlines()
 ```
 
-![image-20210920223117026](C:\Users\24116\AppData\Roaming\Typora\typora-user-images\image-20210920223117026.png)
+![image-20210920223117026](https://i.loli.net/2021/09/22/M7LSYKIXTAU8s3B.png)
 
 #### `split`
 
 拆分字符串为列表
 
-![image-20210920230344236](C:\Users\24116\AppData\Roaming\Typora\typora-user-images\image-20210920230344236.png)
+![image-20210920230344236](https://i.loli.net/2021/09/22/1EADV7c5tTs4Wim.png)
 
 #### 类型转换
 
 `int` `float` `str`
 
 ​	
+
